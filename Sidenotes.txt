@@ -1,0 +1,4 @@
+NOTES:
+- Remember to flatline at salvage value for double declining
+- Remember to not let APIC go below 0 and debit retained earnings instead
+
